@@ -2,6 +2,8 @@
 
 北京 IMAX 影院信息。
 
+更多信息可见 [此腾讯文档](https://docs.qq.com/sheet/DQ3FEUUZJdklNSWJP?tab=n3wvzh) 的中国区部分，参数详细。
+
 ## 东城区
 
 ## 西城区
